@@ -1,17 +1,14 @@
-<<<<<<< HEAD
+
 * cmsc128test
-=======
 CMSC 128 Exercise
-======
 
 Exercise Material for CMSC 128 AB-3L and AB-7L for AY 2015-2016
 
 Developers
-======
 * Aragones
 * de Robles
 * Paderes
 * Robles
 * Rupa
 * Santos
->>>>>>> cb168f084fead4f22238fb565516a0e3c597392c
+* Tomagos
